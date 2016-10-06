@@ -22,7 +22,12 @@ body {
 }
 
 img {
-  width: 100%
+  width: 100%;
+}
+
+.grow {
+  font-style: bolder;
+  font-size: 1.125rem
 }
 
 a {
