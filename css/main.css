@@ -1,6 +1,7 @@
 
 html {
-  line-height: 1.5rem;
+  max-width: 608px;
+  line-height: 1.5;
   font-family: "PT Serif", serif;
   font-weight: normal;
   background-color: #c9b5ab;
@@ -56,4 +57,23 @@ ol, li {
 figcaption {
   text-align: center;
   font-style: italic;
+}
+
+dl dt {
+  font-weight: bolder;
+  font-size: 1.125rem;
+}
+
+aside {
+  font-size: 0.8rem;
+}
+
+blockquote {
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+footer {
+  font-size: 0.8rem;
 }
