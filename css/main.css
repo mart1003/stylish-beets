@@ -1,5 +1,8 @@
 
 html {
+  line-height: 1.5rem;
+  font-family: "PT Serif",serif;
+  font-weight: normal;
   background-color: #c9b5ab;
 }
 
@@ -26,13 +29,18 @@ img {
 }
 
 .grow {
-  font-style: bolder;
+  font-weight: bolder;
   font-size: 1.125rem
 }
 
 a {
   text-decoration: none;
   color: #8f2440;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
 }
 
 ol, li {
