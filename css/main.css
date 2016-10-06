@@ -1,0 +1,45 @@
+
+html {
+  background-color: #c9b5ab;
+}
+
+h1 {
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bolder;
+  font-size: 1.5rem
+}
+
+nav {
+  color: #8f2440;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bolder;
+  font-size: 1.125rem;
+}
+
+body {
+  font-family: 'PT Serif', serif;
+}
+
+img {
+  width: 100%
+}
+
+a {
+  text-decoration: none;
+  color: #8f2440;
+}
+
+ol, li {
+  list-style-type: none;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
+/*Typefaces: PT Sans, PT Serif (from Google Fonts)
+Text sizes: 1.5rem, 1.125rem, 0.8rem
+Line height: 1.5
+Colours: #c9b5ab, #8f2440, #222, #3f1622, #3f1622*/
